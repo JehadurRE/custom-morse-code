@@ -1,3 +1,21 @@
+<p align="right">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%">
+</p>
+<p align="right"><h1 align="right">CU8TOM-MOR2E-CODE</h1></p>
+
+<p align="right">
+	<img src="https://img.shields.io/github/license/JehadurRE/custom-morse-code?style=default&logo=opensourceinitiative&logoColor=white&color=38a20e" alt="license">
+	<img src="https://img.shields.io/github/last-commit/JehadurRE/custom-morse-code?style=default&logo=git&logoColor=white&color=38a20e" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/JehadurRE/custom-morse-code?style=default&color=38a20e" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/JehadurRE/custom-morse-code?style=default&color=38a20e" alt="repo-language-count">
+</p>
+<p align="right"><!-- default option, no dependency badges. -->
+</p>
+<p align="right">
+	<!-- default option, no dependency badges. -->
+</p>
+<br>
+
 # Custom Morse Code Translator
 
 Welcome to the Custom Morse Code Translator! This tool allows you to translate text to Morse code and vice versa using custom symbols for dots and dashes.
